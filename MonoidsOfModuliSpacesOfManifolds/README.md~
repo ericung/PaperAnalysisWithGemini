@@ -1,0 +1,7 @@
+# Monoids Of Moduli Spaces Of Manifolds
+
+* **Theorem A**:  This theorem states that under certain conditions, the inclusion of a subcategory  $B\mathcal{C}_{\theta}^{\bullet}$ into $B\mathcal{C}_{\theta}$ is a weak homotopy equivalence. [cite: 644, 645, 646, 647, 648, 649, 650]
+   
+* **Theorem B**:  This theorem concerns the homotopy type of subcategories $\mathcal{D}$ within $\mathcal{C}_{\theta}^{\bullet}$, showing that under certain conditions, the inclusion of $B\mathcal{D}$ into $B\mathcal{C}_{\theta}^{\bullet}$ is a weak homotopy equivalence. [cite: 651, 652, 653, 654]
+   
+* **Main Theorem of [6]**:  This theorem determines the homotopy type of the classifying space of the cobordism category. [cite: 639, 640]
